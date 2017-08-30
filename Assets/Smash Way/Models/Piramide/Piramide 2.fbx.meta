@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: 4f30bca566bd4d442b045b4bf8aee33c
+timeCreated: 1435221107
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Piramide_cell
+    100004: Piramide_cell.002_cell.001_cell
+    100006: Piramide_cell.002_cell.001_cell.001
+    100008: Piramide_cell.002_cell.001_cell.002
+    100010: Piramide_cell.002_cell.001_cell.003
+    100012: Piramide_cell.002_cell.001_cell.004
+    100014: Piramide_cell.002_cell.002_cell
+    100016: Piramide_cell.002_cell.002_cell.001
+    100018: Piramide_cell.002_cell.002_cell.002
+    100020: Piramide_cell.002_cell.002_cell.004
+    100022: Piramide_cell.002_cell_cell
+    100024: Piramide_cell.002_cell_cell.001
+    100026: Piramide_cell.002_cell_cell.002
+    100028: Piramide_cell.002_cell_cell.003
+    100030: Piramide_cell.002_cell_cell.004
+    100032: Piramide_cell.002_cell_cell.006
+    100034: Piramide_cell.002_cell_cell.007
+    400000: //RootNode
+    400002: Piramide_cell
+    400004: Piramide_cell.002_cell.001_cell
+    400006: Piramide_cell.002_cell.001_cell.001
+    400008: Piramide_cell.002_cell.001_cell.002
+    400010: Piramide_cell.002_cell.001_cell.003
+    400012: Piramide_cell.002_cell.001_cell.004
+    400014: Piramide_cell.002_cell.002_cell
+    400016: Piramide_cell.002_cell.002_cell.001
+    400018: Piramide_cell.002_cell.002_cell.002
+    400020: Piramide_cell.002_cell.002_cell.004
+    400022: Piramide_cell.002_cell_cell
+    400024: Piramide_cell.002_cell_cell.001
+    400026: Piramide_cell.002_cell_cell.002
+    400028: Piramide_cell.002_cell_cell.003
+    400030: Piramide_cell.002_cell_cell.004
+    400032: Piramide_cell.002_cell_cell.006
+    400034: Piramide_cell.002_cell_cell.007
+    2300000: Piramide_cell
+    2300002: Piramide_cell.002_cell.001_cell
+    2300004: Piramide_cell.002_cell.001_cell.001
+    2300006: Piramide_cell.002_cell.001_cell.002
+    2300008: Piramide_cell.002_cell.001_cell.003
+    2300010: Piramide_cell.002_cell.001_cell.004
+    2300012: Piramide_cell.002_cell.002_cell
+    2300014: Piramide_cell.002_cell.002_cell.001
+    2300016: Piramide_cell.002_cell.002_cell.002
+    2300018: Piramide_cell.002_cell.002_cell.004
+    2300020: Piramide_cell.002_cell_cell
+    2300022: Piramide_cell.002_cell_cell.001
+    2300024: Piramide_cell.002_cell_cell.002
+    2300026: Piramide_cell.002_cell_cell.003
+    2300028: Piramide_cell.002_cell_cell.004
+    2300030: Piramide_cell.002_cell_cell.006
+    2300032: Piramide_cell.002_cell_cell.007
+    3300000: Piramide_cell
+    3300002: Piramide_cell.002_cell.001_cell
+    3300004: Piramide_cell.002_cell.001_cell.001
+    3300006: Piramide_cell.002_cell.001_cell.002
+    3300008: Piramide_cell.002_cell.001_cell.003
+    3300010: Piramide_cell.002_cell.001_cell.004
+    3300012: Piramide_cell.002_cell.002_cell
+    3300014: Piramide_cell.002_cell.002_cell.001
+    3300016: Piramide_cell.002_cell.002_cell.002
+    3300018: Piramide_cell.002_cell.002_cell.004
+    3300020: Piramide_cell.002_cell_cell
+    3300022: Piramide_cell.002_cell_cell.001
+    3300024: Piramide_cell.002_cell_cell.002
+    3300026: Piramide_cell.002_cell_cell.003
+    3300028: Piramide_cell.002_cell_cell.004
+    3300030: Piramide_cell.002_cell_cell.006
+    3300032: Piramide_cell.002_cell_cell.007
+    4300000: Piramide_cell.002_cell_cell.007
+    4300002: Piramide_cell.002_cell_cell.006
+    4300004: Piramide_cell.002_cell_cell.004
+    4300006: Piramide_cell.002_cell_cell.003
+    4300008: Piramide_cell.002_cell_cell.002
+    4300010: Piramide_cell.002_cell_cell.001
+    4300012: Piramide_cell.002_cell_cell
+    4300014: Piramide_cell.002_cell.001_cell.004
+    4300016: Piramide_cell.002_cell.001_cell.003
+    4300018: Piramide_cell.002_cell.001_cell.002
+    4300020: Piramide_cell.002_cell.001_cell.001
+    4300022: Piramide_cell.002_cell.001_cell
+    4300024: Piramide_cell.002_cell.002_cell.004
+    4300026: Piramide_cell.002_cell.002_cell.002
+    4300028: Piramide_cell.002_cell.002_cell.001
+    4300030: Piramide_cell.002_cell.002_cell
+    4300032: Piramide_cell
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: c6cde6ab629efb841b357ac246916a37
+timeCreated: 1435221110
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Piramide_cell.025_cell
+    100004: Piramide_cell.025_cell.001
+    100006: Piramide_cell.025_cell.004
+    100008: Piramide_cell.025_cell.005
+    100010: Piramide_cell.025_cell.006
+    100012: Piramide_cell.027
+    100014: Piramide_cell.030_cell.004
+    100016: Piramide_cell.030_cell.005
+    100018: Piramide_cell.030_cell.006
+    100020: Piramide_cell.031_cell.001
+    100022: Piramide_cell.031_cell.002
+    100024: Piramide_cell.031_cell.003
+    100026: Piramide_cell.031_cell.004
+    100028: Piramide_cell.031_cell.005
+    100030: Piramide_cell.031_cell.006
+    400000: //RootNode
+    400002: Piramide_cell.025_cell
+    400004: Piramide_cell.025_cell.001
+    400006: Piramide_cell.025_cell.004
+    400008: Piramide_cell.025_cell.005
+    400010: Piramide_cell.025_cell.006
+    400012: Piramide_cell.027
+    400014: Piramide_cell.030_cell.004
+    400016: Piramide_cell.030_cell.005
+    400018: Piramide_cell.030_cell.006
+    400020: Piramide_cell.031_cell.001
+    400022: Piramide_cell.031_cell.002
+    400024: Piramide_cell.031_cell.003
+    400026: Piramide_cell.031_cell.004
+    400028: Piramide_cell.031_cell.005
+    400030: Piramide_cell.031_cell.006
+    2300000: Piramide_cell.025_cell
+    2300002: Piramide_cell.025_cell.001
+    2300004: Piramide_cell.025_cell.004
+    2300006: Piramide_cell.025_cell.005
+    2300008: Piramide_cell.025_cell.006
+    2300010: Piramide_cell.027
+    2300012: Piramide_cell.030_cell.004
+    2300014: Piramide_cell.030_cell.005
+    2300016: Piramide_cell.030_cell.006
+    2300018: Piramide_cell.031_cell.001
+    2300020: Piramide_cell.031_cell.002
+    2300022: Piramide_cell.031_cell.003
+    2300024: Piramide_cell.031_cell.004
+    2300026: Piramide_cell.031_cell.005
+    2300028: Piramide_cell.031_cell.006
+    3300000: Piramide_cell.025_cell
+    3300002: Piramide_cell.025_cell.001
+    3300004: Piramide_cell.025_cell.004
+    3300006: Piramide_cell.025_cell.005
+    3300008: Piramide_cell.025_cell.006
+    3300010: Piramide_cell.027
+    3300012: Piramide_cell.030_cell.004
+    3300014: Piramide_cell.030_cell.005
+    3300016: Piramide_cell.030_cell.006
+    3300018: Piramide_cell.031_cell.001
+    3300020: Piramide_cell.031_cell.002
+    3300022: Piramide_cell.031_cell.003
+    3300024: Piramide_cell.031_cell.004
+    3300026: Piramide_cell.031_cell.005
+    3300028: Piramide_cell.031_cell.006
+    4300000: Piramide_cell.025_cell.006
+    4300002: Piramide_cell.025_cell.005
+    4300004: Piramide_cell.025_cell.004
+    4300006: Piramide_cell.025_cell.001
+    4300008: Piramide_cell.025_cell
+    4300010: Piramide_cell.030_cell.006
+    4300012: Piramide_cell.030_cell.005
+    4300014: Piramide_cell.030_cell.004
+    4300016: Piramide_cell.031_cell.006
+    4300018: Piramide_cell.031_cell.005
+    4300020: Piramide_cell.031_cell.004
+    4300022: Piramide_cell.031_cell.003
+    4300024: Piramide_cell.031_cell.002
+    4300026: Piramide_cell.031_cell.001
+    4300028: Piramide_cell.027
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
