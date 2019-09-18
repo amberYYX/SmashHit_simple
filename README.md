@@ -1,17 +1,11 @@
 # SmashHit_simple
-This is a Unity project. We imitate a mature game `Smash Hit`, this is a simple one.
+This is a Unity group project. We imitate a mature game `Smash Hit`, this is a simple one. In this project, I am mainly responsible for the collision, which includes the maya model making, collision detection, relevant sound trigger and so on.
 
-游戏主要实现模块
+The functions We finished are as followed:
 
-- 登录界面GUI
-- 通关界面GUI
-- 音效 
-
-- 角色动画
-- 摄影机跟踪
-- 场景搭建
-
-- 碰撞
-
-- 碰撞音效
-- 碰撞积分
+  -Scene construction
+  -GUI design
+  -Character animation
+  -Camera tracking
+  -Sound effect 
+  -Collision effect
